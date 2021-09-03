@@ -1,0 +1,15 @@
+{
+  "name": "kodzila/sniffer",
+  "type": "library",
+  "description": "Ruleset to codesniffer for Kodzila projects",
+  "authors": [
+    {
+      "name": "Pawel Kozik",
+      "email": "pawel.artur.kozik@gmail.com"
+    }
+  ],
+  "require": {
+    "slevomat/coding-standard": "7.*",
+    "squizlabs/php_codesniffer": "3.*"
+  }
+}
