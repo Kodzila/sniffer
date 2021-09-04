@@ -21,7 +21,6 @@ In the root project create a file `phpcs.xml` with configuration:
 
 You can also specify Sniff paths:
 ```bash
-```bash
 <?xml version="1.0"?>
 <ruleset>
     <description>App project</description>
